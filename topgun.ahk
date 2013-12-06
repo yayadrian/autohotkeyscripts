@@ -19,6 +19,7 @@
 ,"It takes a lot more than just fancy flying."
 ,"I'll hit the brakes, he'll fly right by."
 ,"Top Gun rules of engagement are written for your safety and for that of your team. They are not flexible, nor am I. Either obey them or you are history. Is that clear?"
+,"Mustang, this is Voodoo 3. Remaining MiGs are bugging out."
 ,"It's classified. I could tell you, but then I'd have to kill you.")
 
   Random, val, 1, 20
